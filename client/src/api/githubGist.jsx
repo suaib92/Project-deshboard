@@ -10,7 +10,7 @@ export const exportGist = async (title, todos) => {
     }
 
     // Send the token as part of the Authorization header
-    const response = await axios.post("http://localhost:5000/api/gists/export", {
+    const response = await axios.post("https://project-deshboard.onrender.com/api/gists/export", {
       title,
       todos,
     }, {
