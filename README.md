@@ -137,6 +137,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Contributions are welcome! Feel free to submit a pull request or raise an issue.
 
----
 
-Replace placeholders like `your-username` and adjust the structure to fit your repository specifics. This file provides an easy-to-follow guide for users and developers.
