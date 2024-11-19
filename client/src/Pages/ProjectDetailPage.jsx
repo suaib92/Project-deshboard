@@ -8,7 +8,7 @@ import {
   updateProjectTitle,
 } from "../api/projectApi";
 import { exportGist } from "../api/githubGist";
-import TodoForm from "../Components/TodoForm";
+import TodoForm from "../components/TodoForm";
 import { MdOutlineModeEdit } from "react-icons/md";
 import { MdOutlineDeleteOutline } from "react-icons/md";
 import { IoArrowBackOutline } from "react-icons/io5";
